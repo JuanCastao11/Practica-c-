@@ -1,0 +1,15 @@
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\bin\Debug\net8.0\ProyectoPrincipal.exe
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\bin\Debug\net8.0\ProyectoPrincipal.deps.json
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\bin\Debug\net8.0\ProyectoPrincipal.runtimeconfig.json
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\bin\Debug\net8.0\ProyectoPrincipal.dll
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\bin\Debug\net8.0\ProyectoPrincipal.pdb
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.AssemblyInfoInputs.cache
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.AssemblyInfo.cs
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.csproj.CoreCompileInputs.cache
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.sourcelink.json
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.dll
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\refint\ProyectoPrincipal.dll
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.pdb
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ProyectoPrincipal.genruntimeconfig.cache
+C:\Juan Manuel Castaño\C#\ProyectoPrincipal\obj\Debug\net8.0\ref\ProyectoPrincipal.dll
